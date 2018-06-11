@@ -1,0 +1,11 @@
+# Lista-ANTONYGTV-1.O
+Lista1
+Lista m3u
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://goo.gl/images/8L67R6" pltv-name="ANTONYGTV1.0" pltv-description="XXX" pltv-cover="https://goo.gl/images/8L67R6" pltv-author="ANTONYGTV" pltv-site="XXX" pltv-email="antonysousa9222@gmail.com"
+
+
+################## Canais abertos  ########################
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO" group-title="XXX TITULO DO GRUPO- CATEGORIA XXX" pltv-subgroup="XXX SUBGRUPOXXX", XXX NOME DO CANAL, EXEMPLO DBZ EPISODIO 1 XXX
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
