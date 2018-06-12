@@ -1,11 +1,11 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://photos.app.goo.gl/GmnvrTxvJNQhTSQj2" pltv-name="ANTONYGTV" pltv-description="Lista IPTV" pltv-cover="https://photos.app.goo.gl/GmnvrTxvJNQhTSQj2" pltv-author="ANTONYGTV" pltv-email="antonysousa9222@gmail.com"
+#PLAYLISTV: pltv-logo="https://drive.google.com/file/d/10FKEiLwsD9Wbq0_MooTmR3hvyZ5KYvHC/view?usp=drivesdk" pltv-name="ANTONYGTV" pltv-description="Lista IPTV" pltv-cover="https://photos.app.goo.gl/GmnvrTxvJNQhTSQj2" pltv-author="ANTONYGTV" pltv-email="antonysousa9222@gmail.
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/21a28e5da5e3a3f509698057ec62c92e.jpg" group-title="Infantil",GOSPEL CARTOON
 http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8fade5db38104f8469c0677d384fa3.jpg" group-title="Canais Fechados",JOIAS VIP
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://s3.amazonaws.com/minhalista.live/images/channels/fd8fade5db38104f8469c0677d384fa3.jpg" title = "Canais Fechados", JOIAS VIP
 http://ams2.dtcompany.com.br:1935/live/joiasvip.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/21a28e5da5e3a3f509698057ec62c92e.jpg" group-title="Sessão Renata", Renata Colegial
